@@ -1,0 +1,10 @@
+crew_members = crew_members = ['alex rajavi','giorgi nozadze','ilia wiklauri','mate jorbenadze','nika kandelaki','nikoloz natchkebia','omar focxoraia','giorgi bibilashvili','giorgi ghurwkaia','luka zazashvili' ]
+
+supersia = []
+
+for i in  (crew_members):
+    if i.lower().count("i") > 2:
+        supersia.append(i.title())
+    for i in supersia:
+        print(i)
+

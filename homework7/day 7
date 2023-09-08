@@ -1,0 +1,19 @@
+name ="giorgi"
+
+name = True
+
+surname ="noza"
+
+surname = False
+
+age = 13
+
+going_on_football = True
+
+hate_icehockey = False
+
+learning_at_GOA = True
+
+print(name + " " + surname + " " + str(age))
+
+

@@ -1,0 +1,30 @@
+
+import random
+crew_leaders = ['kruashvili', 'amiranashvili','molodini','kurtanidze',
+'tyeshelashvili','janezashvili','kereselidze']
+
+print(crew_leaders[random.randint(0,6)])
+print(crew_leaders[random.randint(0,6)])
+print(crew_leaders[random.randint(0,6)])
+
+
+"დავალება N2"
+
+crew_members = ('alex','nozadze','wiklauri','jorbenadze','kandelaki','natchkebia','focxoraia','bibilashvili','ghurwkia','zazashvili' )
+input(crew_members[random.randint(0,10)])
+print(crew_members[random.randint(0,10)])
+input(crew_members[random.randint(0,10)])
+print(crew_members[random.randint(0,10)])
+input(crew_members[random.randint(0,10)])
+print(crew_members[random.randint(0,10)])
+
+input(crew_members[2])
+input(crew_members[4])
+input(crew_members[7])
+input(crew_members[9])
+
+print(crew_members[2])
+print(crew_members[4])
+print(crew_members[7])
+print(crew_members[9])
+

@@ -1,0 +1,9 @@
+name = input("ra gqvia: giorgi ")
+
+surname = input("ra gvari xar: nozadze ")
+
+age = input("ra aris sheni asaki: 13 ")
+
+city = input("sad cxovrob: surami ")
+
+print(name + " " + surname + " " + str(age) + " " + city)

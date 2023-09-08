@@ -1,0 +1,7 @@
+name = "giorgi"
+
+surname = "nozadze"
+
+age = 13
+
+print(name + " " + surname + " " + str(age))
